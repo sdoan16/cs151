@@ -1,0 +1,12 @@
+Your name: Shirley Doan
+Your student ID: 010505053
+Your major: Software Engineering
+Your preferred email address: shirleyndoan97@gmail.com
+Check one: [x] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [x] No
+Place and semester where you took a programming course in Java: San Jose State University, Fall 2016
+Course number and grade received: CS 46A, grade: A
+Place and semester where you took a course in data structures: San Jose State University, Fall 2017
+Course number and grade received: CS 146, grade: C
+Time it took you to answer the two questions below: 45 min
+Did you ask anyone for help? [ ] Yes, [x] No
